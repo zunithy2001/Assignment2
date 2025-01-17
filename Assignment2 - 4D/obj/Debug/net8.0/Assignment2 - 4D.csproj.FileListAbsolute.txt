@@ -1,0 +1,14 @@
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\bin\Debug\net8.0\Assignment2 - 4D.exe
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\bin\Debug\net8.0\Assignment2 - 4D.deps.json
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\bin\Debug\net8.0\Assignment2 - 4D.runtimeconfig.json
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\bin\Debug\net8.0\Assignment2 - 4D.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\bin\Debug\net8.0\Assignment2 - 4D.pdb
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.AssemblyInfoInputs.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.AssemblyInfo.cs
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.csproj.CoreCompileInputs.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\refint\Assignment2 - 4D.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.pdb
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\Assignment2 - 4D.genruntimeconfig.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 4D\obj\Debug\net8.0\ref\Assignment2 - 4D.dll

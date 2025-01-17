@@ -1,0 +1,14 @@
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\bin\Debug\net8.0\Assignment2 - 1A.exe
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\bin\Debug\net8.0\Assignment2 - 1A.deps.json
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\bin\Debug\net8.0\Assignment2 - 1A.runtimeconfig.json
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\bin\Debug\net8.0\Assignment2 - 1A.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\bin\Debug\net8.0\Assignment2 - 1A.pdb
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.AssemblyInfoInputs.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.AssemblyInfo.cs
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.csproj.CoreCompileInputs.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\refint\Assignment2 - 1A.dll
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.pdb
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\Assignment2 - 1A.genruntimeconfig.cache
+C:\Users\anand\source\repos\ConsoleApp1\Assignment2 - 1A\obj\Debug\net8.0\ref\Assignment2 - 1A.dll
